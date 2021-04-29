@@ -11,7 +11,6 @@ p {
 
 div {
     background-color: rgb(161, 159, 159);
-    padding: 19px;
 }
 
 div a {
@@ -24,7 +23,29 @@ div a {
 }
 
 #principal {
-    width: 100px;
+    width: 300px;
+    height: 400px;
+    margin: auto;
+    background-color: crimson;
+}
+.box-1 {
+    width: 200px;
+    height: 200px;
+    background-color: coral;
+    padding: 10px 20px;
+    border: 1px solid black;
+    margin-left: 20px;
+    box-shadow: rgba(0, 0, 0, 0.445) 6px 6px;
+}
+.box-2 {
+    margin-top: 20px;
+    width: 200px;
+    height: 200px;
+    background-color: coral;
+    padding: 10px 20px;
+    border: 1px solid black;
+    margin-left: 20px;
+    box-shadow: rgba(0, 0, 0, 0.445) 6px 6px;
 }
 
 a {
